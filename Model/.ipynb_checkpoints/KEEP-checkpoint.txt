@@ -1,0 +1,28 @@
+for col in df.columns:
+    if (df[col].isna().sum() > (3900)):
+        df = df.drop(col, axis=1)
+df.isna().sum()
+
+
+
+least_frequent_values = shows_encoded.sum().nsmallest(100).index
+
+# Step 2: Drop the corresponding columns from the DataFrame
+shows_encoded = shows_encoded.drop(least_frequent_values, axis=1)
+rows_to_drop = shows_encoded.loc[(shows_encoded == 0).all(axis=1) | (shows_encoded == 1).all(axis=1)].index
+
+# Step 2: Drop the identified rows from the DataFrame
+shows_encoded = shows_encoded.drop(rows_to_drop, axis=0)
+shows_encoded
+
+
+rules_df
+rules_df['antecedents'][0]
+
+
+if R:
+    first_consequent_as_string = str(R[0]).replace("frozenset({'",'')
+    first_consequent_as_string = first_consequent_as_string.replace("'})",'')
+    print(first_consequent_as_string)
+else:
+    print("No recommendations found.")

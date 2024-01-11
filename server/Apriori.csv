@@ -1,0 +1,178 @@
+,itemsets,support
+0,Ozark,0.7380952380952381
+1,The Blacklist,0.6428571428571429
+2,Atypical,0.5714285714285714
+3,Mr. Robot,0.5
+4,"Ozark,The Blacklist",0.5
+5,The Walking Dead,0.47619047619047616
+6,Deception,0.47619047619047616
+7,Shadow and Bone,0.47619047619047616
+8,Demon Slayer,0.47619047619047616
+9,"Atypical,Ozark",0.4523809523809524
+10,Family Guy,0.4523809523809524
+11,Berlin Station,0.4523809523809524
+12,"Ozark,Mr. Robot",0.42857142857142855
+13,"Atypical,The Blacklist",0.42857142857142855
+14,The Mentalist,0.42857142857142855
+15,Daredevil,0.38095238095238093
+16,"Ozark,Family Guy",0.38095238095238093
+17,"Atypical,Family Guy",0.38095238095238093
+18,"Ozark,The Walking Dead",0.38095238095238093
+19,Hanna,0.38095238095238093
+20,Stranger Things,0.38095238095238093
+21,The Wire,0.35714285714285715
+22,"Ozark,Deception",0.35714285714285715
+23,"Ozark,Berlin Station",0.35714285714285715
+24,Queen of the South,0.35714285714285715
+25,12 Monkeys,0.35714285714285715
+26,Outer Banks,0.35714285714285715
+27,"Atypical,Ozark,The Blacklist",0.3333333333333333
+28,"Demon Slayer,The Blacklist",0.3333333333333333
+29,Cobra Kai,0.3333333333333333
+30,"The Blacklist,Family Guy",0.3333333333333333
+31,"Mr. Robot,The Blacklist",0.3333333333333333
+32,"Ozark,Shadow and Bone",0.3333333333333333
+33,Two and a half men,0.3333333333333333
+34,"Atypical,Deception",0.3333333333333333
+35,"The Blacklist,Shadow and Bone",0.3333333333333333
+36,The Stranger,0.30952380952380953
+37,Big Little Lies,0.30952380952380953
+38,Dr. House,0.30952380952380953
+39,"Atypical,Mr. Robot",0.30952380952380953
+40,Alice in Borderland,0.30952380952380953
+41,"Atypical,The Blacklist,Family Guy",0.30952380952380953
+42,"Ozark,The Mentalist",0.30952380952380953
+43,"The Blacklist,The Walking Dead",0.30952380952380953
+44,"Atypical,Ozark,Family Guy",0.30952380952380953
+45,"Atypical,The Mentalist",0.30952380952380953
+46,Chernobyl,0.2857142857142857
+47,"Atypical,Stranger Things",0.2857142857142857
+48,"Ozark,The Blacklist,Family Guy",0.2857142857142857
+49,"Deception,The Mentalist",0.2857142857142857
+50,"Deception,The Blacklist",0.2857142857142857
+51,Banshee,0.2857142857142857
+52,"Deception,Family Guy",0.2857142857142857
+53,"Daredevil,Demon Slayer",0.2857142857142857
+54,"Ozark,Demon Slayer",0.2857142857142857
+55,Dark,0.2857142857142857
+56,"Ozark,Mr. Robot,The Blacklist",0.2857142857142857
+57,"The Blacklist,12 Monkeys",0.2857142857142857
+58,"The Blacklist,Berlin Station",0.2857142857142857
+59,Jack Ryan,0.2857142857142857
+60,"Atypical,12 Monkeys",0.2857142857142857
+61,"Ozark,Cobra Kai",0.2857142857142857
+62,"Atypical,Berlin Station",0.2857142857142857
+63,"The Wire,The Mentalist",0.2857142857142857
+64,"Mr. Robot,Family Guy",0.2619047619047619
+65,"Ozark,The Blacklist,Shadow and Bone",0.2619047619047619
+66,"Ozark,Stranger Things",0.2619047619047619
+67,"Queen of the South,Ozark",0.2619047619047619
+68,"The Wire,Ozark",0.2619047619047619
+69,"Atypical,Ozark,Mr. Robot",0.2619047619047619
+70,"Ozark,Two and a half men",0.2619047619047619
+71,"Daredevil,Ozark",0.2619047619047619
+72,"Ozark,The Blacklist,The Walking Dead",0.2619047619047619
+73,"The Blacklist,Stranger Things",0.2619047619047619
+74,"Atypical,Ozark,The Blacklist,Family Guy",0.2619047619047619
+75,Succession,0.2619047619047619
+76,"Mr. Robot,Berlin Station",0.2619047619047619
+77,"Family Guy,Berlin Station",0.2619047619047619
+78,Preacher,0.2619047619047619
+79,"Atypical,Demon Slayer",0.2619047619047619
+80,Spartacus,0.2619047619047619
+81,"Daredevil,Berlin Station",0.2619047619047619
+82,"Atypical,Deception,The Blacklist",0.23809523809523808
+83,"Atypical,Jack Ryan",0.23809523809523808
+84,"Hanna,Ozark",0.23809523809523808
+85,"Ozark,The Blacklist,Berlin Station",0.23809523809523808
+86,"Ozark,Jack Ryan",0.23809523809523808
+87,"The Blacklist,The Mentalist",0.23809523809523808
+88,"Ozark,Family Guy,Berlin Station",0.23809523809523808
+89,"Shadow and Bone,The Walking Dead",0.23809523809523808
+90,"Atypical,Ozark,The Walking Dead",0.23809523809523808
+91,"Atypical,The Walking Dead",0.23809523809523808
+92,"Atypical,Ozark,The Mentalist",0.23809523809523808
+93,"Outer Banks,Shadow and Bone",0.23809523809523808
+94,"The Blacklist,Alice in Borderland",0.23809523809523808
+95,"Queen of the South,The Blacklist",0.23809523809523808
+96,"Atypical,Mr. Robot,The Blacklist",0.23809523809523808
+97,Lupin,0.23809523809523808
+98,"Ozark,The Stranger",0.23809523809523808
+99,"Ozark,12 Monkeys",0.23809523809523808
+100,Sopranos,0.23809523809523808
+101,"The Wire,The Blacklist",0.23809523809523808
+102,"Ozark,Deception,Family Guy",0.23809523809523808
+103,"Atypical,Family Guy,Berlin Station",0.23809523809523808
+104,"Atypical,Ozark,Deception",0.23809523809523808
+105,"Berlin Station,Shadow and Bone",0.23809523809523808
+106,"Atypical,Deception,Family Guy",0.23809523809523808
+107,"Atypical,The Blacklist,Berlin Station",0.23809523809523808
+108,"Daredevil,The Blacklist",0.23809523809523808
+109,Archer,0.23809523809523808
+110,Game of thrones,0.23809523809523808
+111,"Dr. House,Berlin Station",0.23809523809523808
+112,"Atypical,Ozark,Berlin Station",0.23809523809523808
+113,"Atypical,The Blacklist,12 Monkeys",0.23809523809523808
+114,"Banshee,The Blacklist",0.23809523809523808
+115,"Ozark,Mr. Robot,Family Guy",0.23809523809523808
+116,"Demon Slayer,Shadow and Bone",0.23809523809523808
+117,"Atypical,The Wire",0.23809523809523808
+118,"Dr. House,Ozark",0.23809523809523808
+119,"Family Guy,12 Monkeys",0.23809523809523808
+120,"Atypical,Ozark,Jack Ryan",0.21428571428571427
+121,One Piece,0.21428571428571427
+122,"Atypical,Mr. Robot,Family Guy",0.21428571428571427
+123,Only Murders in the building,0.21428571428571427
+124,"Berlin Station,Two and a half men",0.21428571428571427
+125,"Atypical,Ozark,Stranger Things",0.21428571428571427
+126,Lost in Space,0.21428571428571427
+127,"Atypical,The Blacklist,Berlin Station,Family Guy",0.21428571428571427
+128,"Atypical,Ozark,Family Guy,Berlin Station",0.21428571428571427
+129,"The Wire,Ozark,The Mentalist",0.21428571428571427
+130,Grey's Anatomy,0.21428571428571427
+131,Lost,0.21428571428571427
+132,"Mr. Robot,The Blacklist,Family Guy",0.21428571428571427
+133,"Demon Slayer,The Blacklist,Shadow and Bone",0.21428571428571427
+134,"Ozark,The Blacklist,Demon Slayer",0.21428571428571427
+135,"Ozark,Deception,The Blacklist",0.21428571428571427
+136,"Deception,The Blacklist,Family Guy",0.21428571428571427
+137,"Daredevil,The Blacklist,Demon Slayer",0.21428571428571427
+138,"The Blacklist,Berlin Station,Family Guy",0.21428571428571427
+139,"Atypical,Demon Slayer,The Blacklist",0.21428571428571427
+140,"Atypical,The Blacklist,Stranger Things",0.21428571428571427
+141,"Atypical,The Wire,Ozark",0.21428571428571427
+142,"Atypical,The Blacklist,The Mentalist",0.21428571428571427
+143,"Queen of the South,Two and a half men",0.21428571428571427
+144,"Atypical,Deception,The Mentalist",0.21428571428571427
+145,"Atypical,Spartacus",0.21428571428571427
+146,"Chernobyl,The Blacklist",0.21428571428571427
+147,"Cobra Kai,The Blacklist",0.21428571428571427
+148,"Daredevil,Shadow and Bone",0.21428571428571427
+149,"Ozark,Dark",0.21428571428571427
+150,"Demon Slayer,Deception",0.21428571428571427
+151,"Hanna,Deception",0.21428571428571427
+152,"Demon Slayer,Berlin Station",0.21428571428571427
+153,"Berlin Station,Big Little Lies",0.21428571428571427
+154,"The Wire,Deception",0.21428571428571427
+155,"Demon Slayer,Mr. Robot",0.21428571428571427
+156,"Banshee,Ozark",0.21428571428571427
+157,"Demon Slayer,The Mentalist",0.21428571428571427
+158,"Dr. House,The Blacklist",0.21428571428571427
+159,"Hanna,Family Guy",0.21428571428571427
+160,"Hanna,The Blacklist",0.21428571428571427
+161,"Atypical,Family Guy,12 Monkeys",0.21428571428571427
+162,"The Blacklist,Jack Ryan",0.21428571428571427
+163,"Hanna,Atypical",0.21428571428571427
+164,"Mr. Robot,Shadow and Bone",0.21428571428571427
+165,"Dr. House,Atypical",0.21428571428571427
+166,"Mr. Robot,The Mentalist",0.21428571428571427
+167,"Mr. Robot,Two and a half men",0.21428571428571427
+168,"Outer Banks,Ozark",0.21428571428571427
+169,"Ozark,Alice in Borderland",0.21428571428571427
+170,"Ozark,Succession",0.21428571428571427
+171,"Atypical,Alice in Borderland",0.21428571428571427
+172,"12 Monkeys,Stranger Things",0.21428571428571427
+173,Vikings,0.21428571428571427
+174,"Ozark,Chernobyl",0.21428571428571427
+175,"The Mentalist,The Walking Dead",0.21428571428571427
+176,"Deception,Mr. Robot",0.21428571428571427
